@@ -4,3 +4,4 @@ Warning!!! I Am Not Responsible If You Break Something Or Brick Your Phone! PROC
 This Takes A lot of Inspiration from GestaltEdit Too
 This Has Been Only Tested with a iPhone 15 Pro Max
 Only Works With ILoader
+Subtype Breaks The Parts History part if You had changed the display Before 
